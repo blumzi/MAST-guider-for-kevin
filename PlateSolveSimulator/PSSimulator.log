@@ -1,0 +1,10 @@
+2023-09-05 16:12:07,364 - INFO - {PSSimulator:MainThread:16352} - ---------------
+2023-09-05 16:12:07,364 - INFO - {PSSimulator:MainThread:16352} - New PSSimulator
+2023-09-05 16:12:07,364 - INFO - {PSSimulator:MainThread:16352} - ---------------
+2023-09-05 16:12:09,392 - INFO - {PSSimulator:MainThread:16352} - connected socket to ('127.0.0.1', 8001)
+2023-09-05 16:12:34,032 - INFO - {PSSimulator:MainThread:16352} - solved image: ra=0.0002314814814814815 dec=1.1574074074074073e-05
+2023-09-05 16:13:17,289 - INFO - {PSSimulator:MainThread:11576} - ---------------
+2023-09-05 16:13:17,289 - INFO - {PSSimulator:MainThread:11576} - New PSSimulator
+2023-09-05 16:13:17,289 - INFO - {PSSimulator:MainThread:11576} - ---------------
+2023-09-05 16:13:17,807 - INFO - {PSSimulator:MainThread:11576} - connected socket to ('127.0.0.1', 8001)
+2023-09-05 16:13:42,454 - INFO - {PSSimulator:MainThread:11576} - solved image: ra=0.0002314814814814815 dec=1.1574074074074073e-05
